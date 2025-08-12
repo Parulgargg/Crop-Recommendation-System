@@ -17,13 +17,6 @@ This is a full-stack web application that recommends the best crop to grow based
 -   **XGBoost:** For the crop recommendation model.
 -   **Flask-CORS:** To handle Cross-Origin Resource Sharing.
 
-### Frontend
-
--   **React:** A JavaScript library for building user interfaces.
--   **Vite:** A fast build tool for modern web development.
--   **Axios:** For making HTTP requests to the backend.
--   **Tailwind CSS:** For styling the user interface.
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
